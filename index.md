@@ -3,8 +3,8 @@
 *I'm into retrocomputing - primarily with Apple II 8-bit machines.*
 
 [ol.sc@web.de](mailto:ol.sc@web.de) \
-https://github.com/oliverschmidt/ \
-https://www.youtube.com/channel/UCplLYwpw-ZJh-TbNsdFT1vA
+[https://github.com/oliverschmidt/](https://github.com/oliverschmidt/) \
+[https://www.youtube.com/channel/UCplLYwpw-ZJh-TbNsdFT1vA](https://www.youtube.com/channel/UCplLYwpw-ZJh-TbNsdFT1vA)
 
 #### `1999 - 2001` Development on [AppleWin](https://github.com/AppleWin/AppleWin)
 
