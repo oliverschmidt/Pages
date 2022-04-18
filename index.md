@@ -1,10 +1,14 @@
 # Oliver Schmidt
 
+<img src="https://avatars.githubusercontent.com/u/2664009" alt="Avatar" width="150" height="150" align="right">
+
 *I'm into retrocomputing - primarily with Apple II 8-bit machines.*
 
-[ol.sc@web.de](mailto:ol.sc@web.de) \
-[https://github.com/oliverschmidt/](https://github.com/oliverschmidt/) \
-[https://www.youtube.com/channel/UCplLYwpw-ZJh-TbNsdFT1vA](https://www.youtube.com/channel/UCplLYwpw-ZJh-TbNsdFT1vA)
+[ol.sc@web.de](mailto:ol.sc@web.de)
+
+https://github.com/oliverschmidt/
+
+https://www.youtube.com/channel/UCplLYwpw-ZJh-TbNsdFT1vA
 
 #### `1999 - 2001` Development on [AppleWin](https://github.com/AppleWin/AppleWin)
 
@@ -26,7 +30,10 @@
 * Redesign of web browser form support
 * Addition of C64 soft80 web browser
 
-Video [Visit Dragon Cart Web Site With ATARI 130XE And Dragon Cart](https://youtu.be/g3nPasRlrTg)
+Videos
+
+* [Visit Dragon Cart Web Site With ATARI 130XE And Dragon Cart](https://youtu.be/g3nPasRlrTg)
+* [Download Apple II Disk Image Right To Floppy](https://youtu.be/34k0haPTeCo)
 
 #### `2007` Development on [NanoVM](https://github.com/harbaum/NanoVM)
 
@@ -69,10 +76,15 @@ Videos
 
 * Addition of Apple II version
 
-Video [cc65 Chess On The Apple II](https://youtu.be/PPy-cg4ghDY)
+Videos
+
+* [cc65 Chess On The Apple II](https://youtu.be/PPy-cg4ghDY)
+* [cc65 Chess May 2020 Versions](https://youtu.be/IofNJLmyyH4)
 
 #### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/A2Stream)
 
-*  Implementation of softPWM @ 22050Hz with ~5.17 bit resolution
+* Implementation of softPWM @ 22050Hz with ~5.17 bit resolution
 
-Video [Glitch-free High-quality Internet Audio Streaming On The Apple II](https://youtu.be/YcYEnYsI-_M)
+Videos
+
+* [Glitch-free High-quality Internet Audio Streaming On The Apple II](https://youtu.be/YcYEnYsI-_M)
