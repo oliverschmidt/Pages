@@ -84,7 +84,9 @@ Videos
 #### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/A2Stream)
 
 * Implementation of softPWM @ 22050Hz with ~5.17 bit resolution
+* Provisioning of all Open Apple podcast episodes - https://a2retro.de/oa/
 
 Videos
 
 * [Glitch-free High-quality Internet Audio Streaming On The Apple II](https://youtu.be/YcYEnYsI-_M)
+* [Listen To Steve Wozniak On The Apple II With A2Stream](https://youtu.be/7kxo0l3t1LM)
