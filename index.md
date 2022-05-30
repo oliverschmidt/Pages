@@ -84,7 +84,7 @@ Videos
 #### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/A2Stream)
 
 * Implementation of softPWM @ 22050Hz with ~5.17 bit resolution
-* Provisioning of all Open Apple podcast episodes - https://a2retro.de/oa/
+* Provisioning of all Open Apple podcast episodes - https://www.open-apple.net/a2stream/
 
 Videos
 
