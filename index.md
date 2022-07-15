@@ -90,3 +90,4 @@ Videos
 
 * [Glitch-free High-quality Internet Audio Streaming On The Apple II](https://youtu.be/YcYEnYsI-_M)
 * [Listen To Steve Wozniak On The Apple II With A2Stream](https://youtu.be/7kxo0l3t1LM)
+* [A2Stream On AppleWin Using WiFi](https://youtu.be/5oddV-wMyqg)
