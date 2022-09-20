@@ -10,46 +10,29 @@ https://github.com/oliverschmidt/
 
 https://www.youtube.com/A2-Retro
 
-#### `1999 - 2001` Development on [AppleWin](https://github.com/AppleWin/AppleWin)
+#### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/A2Stream)
 
-* Addition of DirectX-based full-screen mode 
-* Addition of NTSC-based double hi-res display 
-
-#### `2004 - present day` Development on [cc65 library for Apple II](https://github.com/cc65/cc65/tree/master/libsrc/apple2)
-
-* Addition of ProDOS 8-based Posix file I/O
-* Addition of serial driver
-* Addition of mouse driver
-* Redesign of joystick driver
-
-#### `2004 - present day` Development on [Contiki](https://github.com/oliverschmidt/contiki/wiki/History)
-
-* Addition of Apple II version
-* Addition of 8-bit Atari version (again)
-* Addition of Windows version
-* Redesign of web browser form support
-* Addition of C64 soft80 web browser
+* Implementation of softPWM @ 22050Hz with ~5.17 bit resolution
+* Provisioning of all Open Apple podcast episodes - https://www.open-apple.net/a2stream/
 
 Videos
 
-* [Visit Dragon Cart Web Site With ATARI 130XE And Dragon Cart](https://youtu.be/g3nPasRlrTg)
-* [Download Apple II Disk Image Right To Floppy](https://youtu.be/34k0haPTeCo)
+* [Glitch-free High-quality Internet Audio Streaming On The Apple II](https://youtu.be/YcYEnYsI-_M)
+* [Listen To Steve Wozniak On The Apple II With A2Stream](https://youtu.be/7kxo0l3t1LM)
+* [A2Stream On AppleWin Using WiFi](https://youtu.be/5oddV-wMyqg)
 
-#### `2007` Development on [NanoVM](https://github.com/harbaum/NanoVM)
+#### `2020` Development on [cc65 Chess](https://github.com/StewBC/cc65-Chess)
 
-* Addition of cc65 targets
-* Addition of faster and exact garbage collection
+* Addition of Apple II version
 
-#### `2013 - 2021` Project management of [cc65](https://cc65.github.io/)
+Videos
 
-* Replacement of build system
-* Addition of automated regression tests
-* Assessment of contributions
+* [cc65 Chess On The Apple II](https://youtu.be/PPy-cg4ghDY)
+* [cc65 Chess May 2020 Versions](https://youtu.be/IofNJLmyyH4)
 
-#### `2013 - present day` Development on [Uthernet II](https://github.com/a2retrosystems/uthernet2/wiki)
+#### `2014` Development on [ADTPro](https://adtpro.com/vedrive.html)
 
-* Implementation of several Ethernet drivers in asm
-* Implementation of several Ethernet drivers in C
+* Addition of Virtual Ethernet Drive for Uthernet II
 
 #### `2013 - present day` Development on [IP65](https://github.com/cc65/ip65/wiki)
 
@@ -68,26 +51,43 @@ Videos
 * [Control Your Apple II With Alexa](https://youtu.be/IO0twDOMDlQ)
 * [Set Apple II Date From The Internet](https://youtu.be/LoQANrqe53I)
 
-#### `2014` Development on [ADTPro](https://adtpro.com/vedrive.html)
+#### `2013 - present day` Development on [Uthernet II](https://github.com/a2retrosystems/uthernet2/wiki)
 
-* Addition of Virtual Ethernet Drive for Uthernet II
+* Implementation of several Ethernet drivers in asm
+* Implementation of several Ethernet drivers in C
 
-#### `2020` Development on [cc65 Chess](https://github.com/StewBC/cc65-Chess)
+#### `2013 - 2021` Project management of [cc65](https://cc65.github.io/)
+
+* Replacement of build system
+* Addition of automated regression tests
+* Assessment of contributions
+
+#### `2007` Development on [NanoVM](https://github.com/harbaum/NanoVM)
+
+* Addition of cc65 targets
+* Addition of faster and exact garbage collection
+
+#### `2004 - present day` Development on [Contiki](https://github.com/oliverschmidt/contiki/wiki/History)
 
 * Addition of Apple II version
+* Addition of 8-bit Atari version (again)
+* Addition of Windows version
+* Redesign of web browser form support
+* Addition of C64 soft80 web browser
 
 Videos
 
-* [cc65 Chess On The Apple II](https://youtu.be/PPy-cg4ghDY)
-* [cc65 Chess May 2020 Versions](https://youtu.be/IofNJLmyyH4)
+* [Visit Dragon Cart Web Site With ATARI 130XE And Dragon Cart](https://youtu.be/g3nPasRlrTg)
+* [Download Apple II Disk Image Right To Floppy](https://youtu.be/34k0haPTeCo)
 
-#### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/A2Stream)
+#### `2004 - present day` Development on [cc65 library for Apple II](https://github.com/cc65/cc65/tree/master/libsrc/apple2)
 
-* Implementation of softPWM @ 22050Hz with ~5.17 bit resolution
-* Provisioning of all Open Apple podcast episodes - https://www.open-apple.net/a2stream/
+* Addition of ProDOS 8-based Posix file I/O
+* Addition of serial driver
+* Addition of mouse driver
+* Redesign of joystick driver
 
-Videos
+#### `1999 - 2001` Development on [AppleWin](https://github.com/AppleWin/AppleWin)
 
-* [Glitch-free High-quality Internet Audio Streaming On The Apple II](https://youtu.be/YcYEnYsI-_M)
-* [Listen To Steve Wozniak On The Apple II With A2Stream](https://youtu.be/7kxo0l3t1LM)
-* [A2Stream On AppleWin Using WiFi](https://youtu.be/5oddV-wMyqg)
+* Addition of DirectX-based full-screen mode 
+* Addition of NTSC-based double hi-res display 
