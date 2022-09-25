@@ -20,6 +20,7 @@ Videos
 * [Glitch-free High-quality Internet Audio Streaming On The Apple II](https://youtu.be/YcYEnYsI-_M)
 * [Listen To Steve Wozniak On The Apple II With A2Stream](https://youtu.be/7kxo0l3t1LM)
 * [A2Stream On AppleWin Using WiFi](https://youtu.be/5oddV-wMyqg)
+* [A2Stream Live Server On The Raspberry Pi](https://youtu.be/jZ0JFIYRpuw)
 
 #### `2020` Development on [cc65 Chess](https://github.com/StewBC/cc65-Chess)
 
