@@ -91,5 +91,5 @@ Videos
 
 #### `1999 - 2001` Development on [AppleWin](https://github.com/AppleWin/AppleWin)
 
-* Addition of DirectX-based full-screen mode 
-* Addition of NTSC-based double hi-res display 
+* Addition of DirectX-based full-screen mode
+* Addition of NTSC-based double hi-res display
