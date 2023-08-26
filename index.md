@@ -10,6 +10,14 @@ https://github.com/oliverschmidt/
 
 https://www.youtube.com/A2-Retro
 
+#### `2022 - present day` Development on [A2retroNET](https://github.com/a2retrosystems/a2retronet-rp2040)
+
+* Directly connecting the Raspberry Pi RP2040 to the Apple II slot bus
+
+Video
+
+* [Peripheral cards with the Raspberry Pi Pico — Oliver Schmidt (KansasFest/A24eVR 2023)](https://youtu.be/UMr2erIUDwU)
+
 #### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/A2Stream)
 
 * Implementation of softPWM @ 22050Hz with ~5.17 bit resolution
@@ -36,7 +44,7 @@ Videos
 
 * Addition of Virtual Ethernet Drive for Uthernet II
 
-#### `2013 - present day` Development on [IP65](https://github.com/cc65/ip65/wiki)
+#### `2013 - 2022` Development on [IP65](https://github.com/cc65/ip65/wiki)
 
 * Consolidation of Ethernet drivers with Contiki
 * Addition of Apple II version
@@ -53,7 +61,7 @@ Videos
 * [Control Your Apple II With Alexa](https://youtu.be/IO0twDOMDlQ)
 * [Set Apple II Date From The Internet](https://youtu.be/LoQANrqe53I)
 
-#### `2013 - present day` Development on [Uthernet II](https://github.com/a2retrosystems/uthernet2/wiki)
+#### `2013 - 2022` Development on [Uthernet II](https://github.com/a2retrosystems/uthernet2/wiki)
 
 * Implementation of several Ethernet drivers in asm
 * Implementation of several Ethernet drivers in C
