@@ -10,7 +10,7 @@ https://github.com/oliverschmidt/
 
 https://www.youtube.com/A2-Retro
 
-#### `2022 - present day` Development on [A2retroNET](https://github.com/a2retrosystems/a2retronet-rp2040)
+#### `2022 - present day` Development of [A2retroNET](https://github.com/oliverschmidt/a2retronet)
 
 * Directly connecting the Raspberry Pi RP2040 to the Apple II slot bus
 
@@ -18,7 +18,7 @@ Video
 
 * [Peripheral cards with the Raspberry Pi Pico — Oliver Schmidt (KansasFest/A24eVR 2023)](https://youtu.be/UMr2erIUDwU)
 
-#### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/A2Stream)
+#### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/a2stream)
 
 * Implementation of softPWM @ 22050Hz with ~5.17 bit resolution
 * Provisioning of all Open Apple podcast episodes - https://www.open-apple.net/a2stream/
