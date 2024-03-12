@@ -10,9 +10,9 @@ https://github.com/oliverschmidt/
 
 https://www.youtube.com/A2-Retro
 
-#### `2022 - present day` Development of [A2retroNET](https://github.com/oliverschmidt/a2retronet)
+#### `2022 - present day` Development of [A2Pico](https://github.com/oliverschmidt/a2pico)
 
-* Directly connecting the Raspberry Pi RP2040 to the Apple II slot bus
+* Directly connecting the Raspberry Pi Pico to the Apple II slot bus
 
 Video
 
