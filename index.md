@@ -14,9 +14,10 @@ https://www.youtube.com/A2-Retro
 
 * Directly connecting the Raspberry Pi Pico to the Apple II slot bus
 
-Video
+Videos
 
 * [Peripheral cards with the Raspberry Pi Pico — Oliver Schmidt (KansasFest/A24eVR 2023)](https://youtu.be/ryiH8t4yIuw)
+* [Bad Apple!! On The Apple IIgs](https://youtu.be/CnemTrIuyy0)
 
 #### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/a2stream)
 
