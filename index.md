@@ -18,6 +18,7 @@ Videos
 
 * [Peripheral cards with the Raspberry Pi Pico — Oliver Schmidt (KansasFest/A24eVR 2023)](https://youtu.be/ryiH8t4yIuw)
 * [Bad Apple!! On The Apple IIgs](https://youtu.be/CnemTrIuyy0)
+* [Purpose-built software-defined hardware with the A2Pico (KansasFest/A24eVR 2024)](https://www.youtube.com/live/JpCUChY-LpU?t=10000s)
 
 #### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/a2stream)
 
