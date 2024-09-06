@@ -20,6 +20,11 @@ Videos
 * [Purpose-built software-defined hardware with the A2Pico - Oliver Schmidt (KansasFest/A24eVR 2024)](https://youtu.be/onLL5Mmh90s)
 * [Bad Apple!! On The Apple IIgs](https://youtu.be/CnemTrIuyy0)
 
+Media Coverage
+
+* [Hackaday - Using The Pi Pico As ‘Programmable Hardware’ For The Apple II](https://hackaday.com/2024/08/27/using-the-pi-pico-as-programmable-hardware-for-the-apple-ii/)
+* [Adafruit - Using a Pi Pico as programmable hardware for an Apple II](https://blog.adafruit.com/2024/08/28/using-a-pi-pico-as-programmable-hardware-for-an-apple-ii-vintagecomputing/)
+
 #### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/a2stream)
 
 * Implementation of softPWM @ 22050Hz with ~5.17 bit resolution
