@@ -12,6 +12,10 @@ https://www.youtube.com/A2-Retro
 
 #### `2024` Reception of [Apple II Forever Award](/oliver_schmidt_with_apple_ii_forever_award.jpg)
 
+Video
+
+* [KansasFest 2024 Live Stream (Friday)](https://www.youtube.com/live/7AZu64-OYdA?t=35284)
+
 #### `2023 - present day` Development on [FujiNet](https://fujinet.online/)
 
 * Port to ESP-IDF 5.x
