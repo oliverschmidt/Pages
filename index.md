@@ -10,6 +10,16 @@ https://github.com/oliverschmidt/
 
 https://www.youtube.com/A2-Retro
 
+#### `2023 - present day` Development on [FujiNet](https://fujinet.online/)
+
+* Port to ESP-IDF 5.x
+* Addition of Contiki web browser - https://github.com/FujiNetWIFI/fujinet-contiki-webbrowser
+* Addition of CaTer terminal program - https://github.com/FujiNetWIFI/fujinet-cater
+
+#### `2023` Development on [Reload](https://github.com/vsladkov/reload-emulator)
+
+* Addition of "Virtual DMA"-based hard disk emulation 
+
 #### `2022 - present day` Development of [A2Pico](https://github.com/oliverschmidt/a2pico)
 
 * Directly connecting the Raspberry Pi Pico to the Apple II slot bus
