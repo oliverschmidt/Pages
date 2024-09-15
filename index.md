@@ -19,9 +19,9 @@ Video
 #### `2023 - present day` Development on [FujiNet](https://fujinet.online/)
 
 * Port to ESP-IDF 5.x
-* Design of SP over SLIP - https://github.com/FujiNetWIFI/fujinet-firmware/wiki/Apple-II-SP-over-SLIP
-* Addition of Contiki web browser - https://github.com/FujiNetWIFI/fujinet-contiki-webbrowser
-* Addition of CaTer terminal program - https://github.com/FujiNetWIFI/fujinet-cater
+* Design of [Apple II SP over SLIP](https://github.com/FujiNetWIFI/fujinet-firmware/wiki/Apple-II-SP-over-SLIP)
+* Addition of [Contiki web browser](https://github.com/FujiNetWIFI/fujinet-contiki-webbrowser)
+* Addition of [CaTer terminal program](https://github.com/FujiNetWIFI/fujinet-cater)
 
 #### `2023` Development on [Reload](https://github.com/vsladkov/reload-emulator)
 
@@ -45,7 +45,7 @@ Media Coverage
 #### `2020 - 2022` Development of [A2Stream](https://github.com/oliverschmidt/a2stream)
 
 * Implementation of softPWM @ 22050Hz with ~5.17 bit resolution
-* Provisioning of all Open Apple podcast episodes - https://www.open-apple.net/a2stream/
+* Provisioning of [all Open Apple podcast episodes](https://www.open-apple.net/a2stream/)
 
 Videos
 
@@ -64,9 +64,9 @@ Videos
 * [cc65 Chess On The Apple II](https://youtu.be/PPy-cg4ghDY)
 * [cc65 Chess May 2020 Versions](https://youtu.be/IofNJLmyyH4)
 
-#### `2014` Development on [ADTPro](https://adtpro.com/vedrive.html)
+#### `2014` Development on [ADTPro](https://adtpro.com/)
 
-* Addition of Virtual Ethernet Drive for Uthernet II
+* Addition of [Virtual Ethernet Drive for Uthernet II](https://adtpro.com/vedrive.html)
 
 #### `2013 - 2022` Development on [IP65](https://github.com/cc65/ip65/wiki)
 
@@ -114,7 +114,7 @@ Videos
 * [Visit Dragon Cart Web Site With ATARI 130XE And Dragon Cart](https://youtu.be/g3nPasRlrTg)
 * [Download Apple II Disk Image Right To Floppy](https://youtu.be/34k0haPTeCo)
 
-#### `2004 - present day` Development on [cc65 library for Apple II](https://github.com/cc65/cc65/tree/master/libsrc/apple2)
+#### `2004 - present day` Development on [cc65 library for Apple II](https://cc65.github.io/doc/apple2.html)
 
 * Addition of ProDOS 8-based Posix file I/O
 * Addition of serial driver
