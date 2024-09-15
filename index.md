@@ -10,6 +10,8 @@ https://github.com/oliverschmidt/
 
 https://www.youtube.com/A2-Retro
 
+#### `2024` Reception of [Apple II Forever Award](/oliver_schmidt_with_apple_ii_forever_award.jpg)
+
 #### `2023 - present day` Development on [FujiNet](https://fujinet.online/)
 
 * Port to ESP-IDF 5.x
