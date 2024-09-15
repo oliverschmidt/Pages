@@ -19,6 +19,7 @@ Video
 #### `2023 - present day` Development on [FujiNet](https://fujinet.online/)
 
 * Port to ESP-IDF 5.x
+* Design of SP over SLIP - https://github.com/FujiNetWIFI/fujinet-firmware/wiki/Apple-II-SP-over-SLIP
 * Addition of Contiki web browser - https://github.com/FujiNetWIFI/fujinet-contiki-webbrowser
 * Addition of CaTer terminal program - https://github.com/FujiNetWIFI/fujinet-cater
 
